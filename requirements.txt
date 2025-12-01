@@ -1,0 +1,36 @@
+# Core
+streamlit==1.31.0
+pandas==2.1.4
+numpy==1.26.3
+
+# Visualização
+plotly==5.18.0
+
+# Google Cloud & BigQuery
+google-cloud-bigquery==3.14.1
+google-auth==2.26.2
+db-dtypes==1.2.0
+
+# LangChain e componentes
+langchain==0.1.0
+langchain-community==0.0.13
+langchain-core==0.1.10
+langchain-google-genai==0.0.6
+langchain-text-splitters==0.0.1
+
+# LangChain Classic (compatibilidade)
+langchain-classic==0.0.1
+
+# Vector Store
+faiss-cpu==1.7.4
+
+# Machine Learning
+scikit-learn==1.4.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.0
+
+python-dotenv
